@@ -32,7 +32,7 @@ class SieveOfEratosthenes {
 
     public static void main(String args[])
     {
-        int n = 1000;
+        int n = 20;
         System.out.println("Following are the prime numbers smaller than or equal to " + n);
         long start = System.nanoTime();
 //        System.out.println("start = " + start);
